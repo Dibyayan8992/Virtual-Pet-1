@@ -1,2 +1,4 @@
-# Virtual-pet-2-c36
-https://cheshta-kabra.github.io/Virtual-Pet-2/
+Virtual Pet 1
+Feed Your Dog With Milk
+
+# Created By Dibyayan Kar
